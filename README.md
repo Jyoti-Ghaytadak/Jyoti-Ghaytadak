@@ -7,7 +7,7 @@
 - 📫 How to reach me📧
 - 😄 Pronouns JOY
 
-![logo](
+![logo](2_20240515_163814_0001.png)
 
 <h1 align="center">Hi 👋, I'm Jyoti Ghaytadak</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
